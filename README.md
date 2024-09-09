@@ -1,4 +1,5 @@
-## Exercício para alunos aprenderem sobre Git e GitHub
+# Exercício para alunos aprenderem sobre Git e GitHub
 
-# Programação para Análise de Dados
-# Prof. Laerte Jun Takeuti, Msc
+## Programação para Análise de Dados
+
+### Prof. Laerte Jun Takeuti, Msc
